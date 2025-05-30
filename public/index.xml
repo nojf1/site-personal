@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nojf1</title>
-    <link>http://localhost:54324/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on nojf1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 nojf1</copyright>
-    <lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:54324/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The second article</title>
-      <link>http://localhost:54324/posts/secondpost/</link>
+      <link>http://localhost:1313/posts/secondpost/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:54324/posts/secondpost/</guid>
+      <guid>http://localhost:1313/posts/secondpost/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The first article</title>
-      <link>http://localhost:54324/posts/firstpost/</link>
+      <link>http://localhost:1313/posts/firstpost/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:54324/posts/firstpost/</guid>
+      <guid>http://localhost:1313/posts/firstpost/</guid>
       <description>Hello World</description>
       
     </item>
     
     <item>
       <title>About Me</title>
-      <link>http://localhost:54324/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:54324/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Contact Me</title>
-      <link>http://localhost:54324/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:54324/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description></description>
       
     </item>
