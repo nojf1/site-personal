@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on nojf1</title>
+    <link>http://localhost:54324/tags/</link>
+    <description>Recent content in Tags on nojf1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 nojf1</copyright>
+    <lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:54324/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Second</title>
+      <link>http://localhost:54324/tags/second/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:54324/tags/second/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://localhost:54324/tags/first/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:54324/tags/first/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

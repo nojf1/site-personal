@@ -1,0 +1,21 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Posts"
+pageRef = "posts"
+identifier = "vLxHAP48RN"
+weight = 900
+
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 100
+
+[[main]]
+name = "Contact"
+pageRef = "contact"
+weight = 110
+
+[[footer]]
+none = "none"

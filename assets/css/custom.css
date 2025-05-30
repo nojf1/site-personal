@@ -1,0 +1,11 @@
+:root {
+  --font-sans: "Merriweather", Helvetica, ui-sans-serif, system-ui;
+  --default-font-family: "Merriweather", Helvetica, ui-sans-serif, system-ui;
+}
+
+html,
+body,
+* {
+  font-family: "Merriweather", Helvetica, ui-sans-serif, system-ui;
+  font-weight: 500;
+}
