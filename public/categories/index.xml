@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on nojf1</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://localhost:55482/categories/</link>
     <description>Recent content in Categories on nojf1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 nojf1</copyright>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55482/categories/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
