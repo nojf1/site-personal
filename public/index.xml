@@ -7,34 +7,54 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 nojf1</copyright>
-    <lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Let&#39;s learn JavaScript! Pt. 1</title>
+      <link>http://localhost:1313/posts/tech/javascript1/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/tech/javascript1/</guid>
+      <description>A review of my understanding of JavaScript</description>
+      
+    </item>
+    
+    <item>
+      <title>Update - 2025-06-01</title>
+      <link>http://localhost:1313/posts/update/updates1/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/update/updates1/</guid>
+      <description>News and updates about site</description>
+      
+    </item>
     
     <item>
       <title>(Not Very) Important Notice About Site</title>
-      <link>http://localhost:1313/posts/notice/</link>
+      <link>http://localhost:1313/posts/update/notice1/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/notice/</guid>
+      <guid>http://localhost:1313/posts/update/notice1/</guid>
       <description>Notice about this website</description>
       
     </item>
     
     <item>
       <title>The second article</title>
-      <link>http://localhost:1313/posts/secondpost/</link>
+      <link>http://localhost:1313/posts/misc/secondpost/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/secondpost/</guid>
+      <guid>http://localhost:1313/posts/misc/secondpost/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The first article</title>
-      <link>http://localhost:1313/posts/firstpost/</link>
+      <link>http://localhost:1313/posts/misc/firstpost/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/firstpost/</guid>
+      <guid>http://localhost:1313/posts/misc/firstpost/</guid>
       <description>Hello World</description>
       
     </item>

@@ -16,7 +16,7 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 defaultBackgroundImage = "lavalamp.svg"
-defaultFeaturedImage = "profile-photo.jpg"
+defaultFeaturedImage = "null"
 
 [header]
 layout = "basic"
@@ -37,7 +37,7 @@ showMoreLinkDest = "/site-personal/posts/"
 cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
-homepageImage = "background-image.jpg"
+homepageImage = "lavalamp.svg"
 
 [article]
 showDate = true

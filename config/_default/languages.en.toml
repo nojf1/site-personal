@@ -14,7 +14,7 @@ logo = "null"
 secondaryLogo = "profile-photo.jpg"
 copyright = "© { year } nojf1"
 
-["params.author"]
+[params.author]
 name = "Nicole"
 image = "profile-photo.jpg"
 imageQuality = 100
