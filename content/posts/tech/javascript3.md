@@ -116,10 +116,12 @@ Remember, don't overthink things in programming. If it doesn't make sense, give 
 
 ## Summary
 
--Parameters are placeholder variables in a function, and used within the function only. Multiple parameters can be defined at the same time.
+- Parameters are placeholder variables in a function, and used within the function only. Multiple parameters can be defined at the same time.
 
--Arguments are the actual values passed into a function when you call it. Multiple arguments can be passed at the same time, as long as there is an equivalent number of parameters already defined within a function without using a rest operator.
+- Arguments are the actual values passed into a function when you call it. Multiple arguments can be passed at the same time, as long as there is an equivalent number of parameters already defined within a function without using a rest operator.
 
--The rest operator (...) can be used to accept unlimited argument amounts, destructure arrays, and forward arguments into another function.
+- The rest operator (...) can be used to accept unlimited argument amounts, destructure arrays, and forward arguments into another function.
 
--Try not to overthink programming too much, it is what it is. Give yourself some time to think as well.
+- Try not to overthink programming too much, it is what it is. Give yourself some time to think as well.
+
+In the next part, I will discuss about arrow functions and more.
